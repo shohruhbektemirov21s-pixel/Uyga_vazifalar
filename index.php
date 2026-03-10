@@ -1,17 +1,17 @@
 <?php 
 $uqivchi1 = "Ali"; 
 $uqivchi1bahosi = 5; 
-$uqivchi1bahosi1 = 5; 
-$uqivchibahosi2 = 5; 
+$uqivchi1bahosi1 = 3; 
+$uqivchibahosi2 = 4; 
 
 $uqivchi2 = "Vali";   
-$uqivchi2bahosi = 4;
-$uqivchi2bahosi1 = 4;   
+$uqivchi2bahosi = 3;
+$uqivchi2bahosi1 = 5;   
 $uqivchi2bahosi2 = 4;
 
 $uqivchi3 = "G'ani";    
-$uqivchi3bahosi = 3;    
-$uqivchi3bahosi1 = 3;    
+$uqivchi3bahosi = 4;    
+$uqivchi3bahosi1 = 5;    
 $uqivchi3bahosi2 = 3;
 
 echo "
